@@ -1,2 +1,2 @@
-# Web-.Net-Cor-API
+# Web-.Net-Core-API
 Project API
